@@ -26,3 +26,6 @@ datasets demonstrate that the angular margin loss improves the
 capability of capsule networks with complex datasets.
 Index Terms—Machine learning, capsule network, angular loss,
 fixed classifier, image analysis
+
+
+![alt text](https://github.com/Riretta/Angle_Loss/ReadMe.jpg?raw=true)
