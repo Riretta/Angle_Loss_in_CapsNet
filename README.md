@@ -28,4 +28,4 @@ Index Terms—Machine learning, capsule network, angular loss,
 fixed classifier, image analysis
 
 
-![alt text](https://github.com/Riretta/Angle_Loss/master/Caps_Angle_FC10_2.jpg?raw=true)
+![plot](https://github.com/Riretta/Angle_Loss/blob/master/Caps_Angle_FC10_2.jpg?raw=true)
