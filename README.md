@@ -29,3 +29,6 @@ fixed classifier, image analysis
 
 
 ![plot](https://github.com/Riretta/Angle_Loss/blob/master/Caps_Angle_FC10_2.jpg?raw=true)
+
+
+The paper is available ICPR2020 proceedings 
