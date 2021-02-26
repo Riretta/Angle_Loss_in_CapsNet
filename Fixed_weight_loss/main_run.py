@@ -1,7 +1,7 @@
 import numpy as np
 
 #import import_ipynb
-import Fixed_weight_loss_moreFC_run as FWL_class
+import training_run as FWL_class
 
 
 alpha = np.arange(0.0, 1.1, 0.1)
