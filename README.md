@@ -33,12 +33,16 @@ fixed classifier, image analysis
 ###############################################################################
 if you use the idea in the project, please cite us:
 
--[
+1. 
 Pucci, R., Micheloni, C., Foresti, G. L., & Martinel, N. (2020). 
+
 Deep interactive encoding with capsule networks for image classification. 
+
 Multimedia Tools and Applications, 79(43), 32243-32258. 
+
 https://link.springer.com/article/10.1007/s11042-020-09455-8 
-]
--[
+
+2.
+
 The paper is available ICPR2020 proceedings 
-]
+
