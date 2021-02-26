@@ -30,7 +30,7 @@ fixed classifier, image analysis
 
 ![plot](https://github.com/Riretta/Angle_Loss/blob/master/Caps_Angle_FC10_2.jpg?raw=true)
 
-#############################################################################################
+###############################################################################
 if you use the idea in the project, please cite us:
 1.
 Pucci, R., Micheloni, C., Foresti, G. L., & Martinel, N. (2020). 
